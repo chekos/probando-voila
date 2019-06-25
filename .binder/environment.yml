@@ -1,0 +1,13 @@
+name: probando-voila
+channels:
+  - conda-forge
+dependencies:
+  - pandas
+  - altair
+  - geopandas
+  - ipywidgets
+  - pip
+  - pip:
+    - gpdvega
+    - voila
+    - xlrd
