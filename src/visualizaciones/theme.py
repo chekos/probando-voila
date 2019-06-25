@@ -24,17 +24,17 @@ def cimarron_theme():
            },
            "background": backgroundColor,
            "legend": {
-               "labelFontSize": 18,
+               "labelFontSize": 12,
                "labelLimit": 500,
                "padding": 5,
-               "symbolSize": 300,
+               "symbolSize": 150,
                "symbolType": "square",
-               "titleFontSize": 24,
+               "titleFontSize": 16,
                "titlePadding": 5,
                "titleLimit": 400,
            },
            "range": {
-               "category": ["#F33C3C", "#1f62ae", "#683729", "#dc0d7a", "#02a3cd", "#e4a100", "#dc0d12", "#0DDC6F","#074a7e", "#e46800", "#aa3594", "#a20c4b"],
+               "category": ["#dc0d7a", "#02a3cd", "#e4a100", "#dc0d12", "#0DDC6F","#074a7e", "#e46800", "#aa3594", "#a20c4b"],
                "diverging": [
                    "#dc0d12",
                    "#e9686b",
@@ -56,7 +56,7 @@ def cimarron_theme():
            },
            "title":{
                "anchor": "start",
-               "fontSize": 60,
+               "fontSize": 32,
                "fontWeight": 600,
                "offset": 20,
            },
