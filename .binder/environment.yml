@@ -6,6 +6,7 @@ dependencies:
   - altair
   - geopandas
   - ipywidgets
+  - ipyleaflet
   - pip
   - pip:
     - gpdvega
